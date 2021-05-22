@@ -97,7 +97,7 @@ projects:
         tagline: "With the roll-out of the Auto Omega2 project our business partners made a conscious decision that quote bundling wouldn't be supported initially.
         I was the lead developer across a couple of teams in Boston and Belfast tasked with designing and implementing an MVP solution to plug the gap.
         Following initial team Design Thinking sessions in Boston we designed, prototyped and then delivered a product in less than 4 months.
-        Our MVP solution exceeded the business expectations which resulted in the Best in Class portion of the project being de-prioritised in favour of Home Oasis2
+        Our MVP solution exceeded the business expectations which resulted in the Best in Class portion of the project being de-prioritised in favour of Home Oasis2.
         Technologies used: React, Dojo, Apollo GraphQL, JavaScript, ApiGateway, Lambda, Splunk"
 
       - title: Auto Omega2 (Helios)
@@ -108,8 +108,8 @@ projects:
       - title: CodeGreen
         tagline: "Enablement project in which we were tasked with improving the performance and stability of our Direct Sales application whilst also looking
         to improve and optimise our developer experience. This was only a 6 month engagement however a number of the processes and applications we created
-        are still core to the automated testing and continued success of the DirectSales application  today.
-        The MockServer came to life during this project and is now also core to the automated testing for the Omega2 and Oasis2 applications
+        are still core to the automated testing and continued success of the DirectSales application today.
+        The MockServer came to life during this project and has now been reused to support the automated testing for the Omega2 and Oasis2 applications.
         Technologies used: Javascript, MongoDB, Express, Bash, Saucelabs, WebdriverIO, Mocha, Bamboo, Splunk"
 
 skills:
