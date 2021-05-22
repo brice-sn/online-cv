@@ -28,12 +28,14 @@ career-profile:
     title: Career Profile
     summary: |
       Highly skilled, passionate, hands on solutions engineer with over 16 years
-      experience of designing and developing large scale enterprise systems. Has
-      a passion for designing cloud native serverless first architectures to ensure teams
+      experience of designing and developing large scale enterprise systems.
+      A natural leader, who motivates others, earns trust and builds strong working relationships
+      with a proven track record of consistently delivering.
+
+      Has a passion for designing cloud native serverless first architectures enabling teams to
       build quickly, iterate and deliver products which truly meet the customer needs.
 
-      A natural leader, with an ability to motivate others, earn trust and build strong working relationships
-      resulting in a proven track record of consistently delivering.
+
 
 education:
     - degree: BEng Hons in Electronic & Software Engineering
@@ -50,12 +52,12 @@ experiences:
           - Driving our Cloud Native Serverless First adoption
           - Providing updates and reviewing designs with architecture team
           - Mentoring and coaching of development teams
-          - Providing feedback to development teams
           - Collaborating closely with business partners to define stories
-          - Providing Technical oversight of the analysis and design across a number of projects
+          - Providing technical oversight of the analysis and design across a number of projects
           - Collaborating with senior business and management stakeholders to negotiate release plans
           - Supporting the pursuit of engineerig excellence through the adoption of the Well Architected Framework
           - Facilitating Threat Modelling sessions and engaging with security teams
+
     - role: Principal Software Engineer
       time: 2012 - 2020
       company: Liberty IT, Belfast
@@ -66,10 +68,10 @@ experiences:
            - Mentoring and coaching of development teams
            - Providing feedback to development teams
            - Collaborating closely woth business partners to understand requirements and define stories
-           - Supporting Delivery Lead in project planning (resource planning, defining milestones etc ) to ensure we meet deadlines
+           - Supporting delivery lead in project planning (resource planning, defining milestones etc ) to ensure we meet deadlines
            - Developing proof of concepts and then evoling these to solve complex problems
            - Looking for opportunities to innovate and encouraging others to also
-           - Collaborating with Architecture team
+           - Collaborating with architecture team
 
 projects:
     title: Projects
@@ -82,12 +84,12 @@ projects:
         our insurance quoting process to make it easier, faster, and more seamless for a customer, agent,
         or third party to get a quote and bind a policy. The capabilities built within this platform support all of our distribution channels
         to ensure we build once, use many to unlock speed and efficiency for all of Distribution. Building upon the Serverless patterns
-        developed for Home Oasis2 but also now looking to take an Event Driven approach to ensure we can decouple from downstream systems.
+        developed for Home Oasis2 but also now looking to take an Event Driven approach to ensure we can decouple ourselves from downstream systems.
         Technologies used: ApiGateway, Lambda, EventBridge, DocumentDB, DynamoDB, OAuth, JWT, Kubernetes, TypeScript, Kafka, ElasticSearch, Elasticache, Datadog, Splunk, Bamboo Specs"
 
       - title: Home Oasis2
         tagline: "Following on from the success of the Auto Omega2 program I was tasked with leading the effort to build a new Direct Sales UI and
-        Quoting Platform in support of a new home rating program. I took the lead role in designing our Architecture for this project and was the driving force behind
+        Quoting Platform in support of a new home rating program. I took the lead role in designing the architecture for this project and was the driving force behind
         us taking a Cloud Native Serverless First approach.
         Technologies used: ReactJS, Apollo GraphQL, JavaScript, TypeScript, CDK, ApiGateway, Lambda, DynamoDB, DocumentDB, SNS, SQS, Datadog, Bamboo Specs"
 
@@ -99,15 +101,15 @@ projects:
         Technologies used: React, Dojo, Apollo GraphQL, JavaScript, ApiGateway, Lambda, Splunk"
 
       - title: Auto Omega2 (Helios)
-        tagline: "A suite of new stateless APIs to support quote and bind capabilities for a new Auto Omega2 rating program.
+        tagline: "A suite of new stateless APIs to support quote and bind capabilities for a new Auto Omega2 insurance rating program.
         These APIs were initially built to support the Direct Sales UI however due to the success of the project were later utilized by other
         distribution channels within Liberty. Technologies used: Java, Spring Boot, Docker, Elasticache, AppDynamics, Splunk"
 
       - title: CodeGreen
         tagline: "Enablement project in which we were tasked with improving the performance and stability of our Direct Sales application whilst also looking
-        to improve and optimise our developer experience. Was only a 6 month engagement however a number of the processes and artifacts we created
-        are still core to the continued success of the DirectSales application. The MockServer that we created has also been used across a number of future projects
-        (eg Omega2, Oasis2 etc )
+        to improve and optimise our developer experience. This was only a 6 month engagement however a number of the processes and applications we created
+        are still core to the automated testing and continued success of the DirectSales application  today.
+        The MockServer came to life during this project and is now also core to the automated testing for the Omega2 and Oasis2 applications
         Technologies used: Javascript, MongoDB, Express, Bash, Saucelabs, WebdriverIO, Mocha, Bamboo, Splunk"
 
 skills:
