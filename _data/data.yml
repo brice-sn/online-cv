@@ -6,16 +6,16 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Barry Rice test
+    name: Barry Rice
     tagline: Solutions Engineer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile_min.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: barryrice82@googlemail.com
     phone: 07725488572
 
     interests:
-      - item: Family time
+      - item: Family Time
         link:
 
       - item: Football
