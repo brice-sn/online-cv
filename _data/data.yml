@@ -15,6 +15,9 @@ sidebar:
     phone: 07725488572
 
     interests:
+      - item: Family time
+        link:
+
       - item: Football
         link:
 
@@ -67,16 +70,19 @@ experiences:
            - Leading the development teams, ensuring we deliver high quality solutions that meet our customer needs
            - Mentoring and coaching of development teams
            - Providing feedback to development teams
-           - Collaborating closely woth business partners to understand requirements and define stories
+           - Collaborating closely with business partners to understand requirements and define stories
            - Supporting delivery lead in project planning (resource planning, defining milestones etc ) to ensure we meet deadlines
-           - Developing proof of concepts and then evoling these to solve complex problems
+           - Developing proof of concepts and then evolving these to solve complex problems
            - Looking for opportunities to innovate and encouraging others to also
            - Collaborating with architecture team
 
 projects:
     title: Projects
     intro: >
-       Throughout my 16 years with Liberty IT I have been chosen to be the lead developer on many business critical projects. Below are some of my recent projects.
+       Throughout my 16 years with Liberty IT I have been the lead developer on wide range of projects,
+       that have been built using a range of different technologies from C++ on Tuxedo, to Java on WPS/BPM,
+       to Spring Boot with Docker and then more recently using Cloud Native services.
+       Below are some of my recent projects.
     assignments:
       - title: Distribution Capabilities Platform
         link: ""
